@@ -105,9 +105,9 @@
 					<div class="col-md-6 wrap-about pl-md-5 ftco-animate py-5">
 	          <div class="heading-section">
 	          	<span class="subheading">Desde 2011</span>
-	            <h2 class="mb-4">LA ECONÓMICA</h2>
+				  <h2 class="mb-4">MADECOR SUR</h2>
 
-	            <p>La licorería La Económica fue fundada en el año 2011 en san Gabriel, distrito de Villa María del Triunfo por medio de la necesidad de vender variedad de productos. Desde el comienzo se enfocaron en brindar buenos productos de calidad como también una buena atención al cliente, realizando promociones y realizar descuentos. Con el transcurso de los años la licorería incorporo nuevos productos y a utilizar pagos por tarjeta para brindar una solución a las necesidades del cliente.</p>
+				<p>Madecor Sur es una maderera.</p>
 	            <p class="year">
 	            	<strong class="number" data-number="09">0</strong>
 		            <span>Años de experiencia en negocios</span>
